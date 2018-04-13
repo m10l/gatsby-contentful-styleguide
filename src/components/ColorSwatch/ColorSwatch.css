@@ -1,0 +1,21 @@
+.ColorSwatch {
+  display: inline-block;
+  width: 150px;
+  margin-right: 8px;
+  border-radius: 5px;
+  box-shadow: 0 1px 5px rgba(0, 0, 0, 0.25);
+}
+
+.ColorSwatch__swatch {
+  border-radius: 5px 5px 0 0;
+  height: 120px;
+  width: 100%;
+}
+
+.ColorSwatch__label {
+  padding: 4px 8px 0;
+}
+
+.ColorSwatch__label--hex {
+  padding: 0 8px 4px;
+}

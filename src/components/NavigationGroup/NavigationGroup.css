@@ -1,0 +1,21 @@
+.NavigationGroup {
+  margin-bottom: 1rem;
+}
+
+.NavigationGroup__title {
+  margin: 0 0 8px;
+  font-size: 0.9rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05rem;
+}
+
+.NavigationGroup__list {
+  list-style: none;
+  margin: 0;
+  padding: 0 0 0 8px;
+}
+
+.NavigationGroup__list-item-link {
+  color: #fff;
+  text-decoration: none;
+}

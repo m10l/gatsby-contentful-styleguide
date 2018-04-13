@@ -1,0 +1,20 @@
+.Header {
+  width: 320px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background: #2a3039;
+  color: #fff;
+  height: 100vh;
+  padding: 16px;
+}
+
+.Header__brand {
+  font-size: 1.953rem;
+  font-weight: 300;
+}
+
+.Header__brand-link {
+  color: #fff;
+  text-decoration: none;
+}
